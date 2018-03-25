@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//air_quality/items.py=utf-8
+encoding//air_quality/pipelines.py=utf-8
+encoding//air_quality/settings.py=utf-8
+encoding//air_quality/spiders/aqi_spider.py=utf-8
