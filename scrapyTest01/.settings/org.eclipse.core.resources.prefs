@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/testScrapy2/items.py=utf-8
+encoding//src/testScrapy2/pipelines.py=utf-8
+encoding//src/testScrapy2/settings.py=utf-8
+encoding//src/testScrapy2/spiders/dmozSpider.py=utf-8
+encoding//src/testScrapy2/spiders/eastmoney.py=utf-8

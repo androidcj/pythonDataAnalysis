@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/testScrapy/items.py=utf-8
+encoding//src/testScrapy/pipelines.py=utf-8
+encoding//src/testScrapy/settings.py=utf-8
+encoding//src/testScrapy/spiders/amazon_spider.py=utf-8

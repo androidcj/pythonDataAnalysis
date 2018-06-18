@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/amazon/amazon/items.py=utf-8
+encoding//src/amazon/amazon/pipelines.py=utf-8
+encoding//src/amazon/amazon/settings.py=utf-8
+encoding//src/amazon/amazon/spiders/amazonPro_spider.py=utf-8
